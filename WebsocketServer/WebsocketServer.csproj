@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\Assets\_COLBERT\Netcode\WebSocket\websocket libraries\websocket-sharp-master\**\*.cs" />
+    <Compile Include="..\Assets\_COLBERT\Netcode\WebSocket\shared\**\*.cs" />
+    <Compile Include="..\Assets\_COLBERT\Netcode\WebSocket\server only\**\*.cs" />
+  </ItemGroup>
+
+</Project>

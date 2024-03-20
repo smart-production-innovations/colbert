@@ -1,0 +1,5 @@
+https://fonts.google.com/icons
+https://github.com/google/material-design-icons
+
+license:
+Apache License 2.0

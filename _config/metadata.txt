@@ -1,0 +1,6 @@
+json-path-to-list=elements
+json-id-entry=Item ID
+
+xml-label-name=TableHeader
+xml-entry-name=Object
+xml-id-entry=Dateiname

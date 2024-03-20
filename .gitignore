@@ -70,3 +70,14 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+.vscode
+.vsconfig
+.plastic
+_userdata/*
+!_userdata/.put-glb-models-here
+/ProjectSettings/ProjectCuratorSettings.json
+WebsocketServer/*
+!WebsocketServer/WebsocketServer.sln
+!WebsocketServer/WebsocketServer.csproj
+!WebsocketServer/Program.cs

@@ -1,0 +1,4 @@
+https://thoseawesomeguys.com/prompts/
+
+license:
+CC0
